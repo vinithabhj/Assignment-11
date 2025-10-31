@@ -35,3 +35,10 @@ This is a repo for TS GenAI
 8. Stop the application by pressing `Ctrl + C`
 
 9. Delete the Codespace by going to `Code` dropdown > Select `Codespaces` tab > Click on 3 dots (...) showing against your codespace and select `Delete`
+
+10. https://github.com/vinithabhj/Assignment-11/blob/13610f6aa3c5a4ee196b40721f52a6804fcb720e/Screenshot%20(281).png
+
+11. https://github.com/vinithabhj/Assignment-11/blob/13610f6aa3c5a4ee196b40721f52a6804fcb720e/Screenshot%20(284).png
+
+12. https://github.com/vinithabhj/Assignment-11/blob/13610f6aa3c5a4ee196b40721f52a6804fcb720e/Screenshot%20(283).png
+    
