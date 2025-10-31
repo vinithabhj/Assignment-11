@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+openai
+langchain==0.3.27
+langchain-openai==0.3.35
+langchain-core==0.3.79
+langchain-experimental==0.3.4
+chainlit
